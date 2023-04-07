@@ -1,9 +1,9 @@
-title: Hacker-Blog
-description: "A Jekyll Blog Theme For Hackers"
+title: AFK.conf
+description: "The way to share offensive and deffensive security informations."
 author:
-  name: "SomeHacker"
-  email: "someone@somewebsite.somedomain"
-  url: "https://ashishchaudhary.in/hacker-blog"
+  name: "AFK - Away From Keyboard"
+  email: "conferenceafk@gmail.com"
+  url: "https://afk-conference.github.io/conference/"
 
 baseurl: /
 
